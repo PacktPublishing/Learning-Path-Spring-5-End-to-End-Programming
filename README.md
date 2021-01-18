@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Learning Path - Spring 5 End-to-End Programming
 
 When it comes to developing applications for the web or enterprises, the Spring Framework has become one of the most popular choices among Java developers. With an array of tools and features, Spring offers developers experience that is rivaled by none.
